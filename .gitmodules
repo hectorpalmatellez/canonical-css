@@ -1,0 +1,3 @@
+[submodule "Canonical.css"]
+	path = Canonical.css
+	url = git://github.com/marxo/Canonical.css.git
