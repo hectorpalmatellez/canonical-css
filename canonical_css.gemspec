@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'canonical_css/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "canonical-css"
+  spec.name          = "canonical_css"
   spec.version       = CanonicalCss::VERSION
   spec.authors       = ["Héctor Palma Téllez"]
   spec.email         = ["hector@palmatellez.cl"]
