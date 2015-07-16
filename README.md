@@ -24,12 +24,13 @@ After installing, go to `application.css` and add:
 
 ```css
 *= require canonical
+```
 
-Of, to be more specific, you could add it in any `.scss` with:
+Or, to be more specific, you could add it in any `.scss` with:
 
 ```css
 @import 'canonical';
-
+```
 
 
 ## Contributing
