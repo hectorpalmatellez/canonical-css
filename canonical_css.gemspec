@@ -4,14 +4,14 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'canonical_css/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "canonical_css"
+  spec.name          = "canonical-css"
   spec.version       = CanonicalCss::VERSION
   spec.authors       = ["Héctor Palma Téllez"]
   spec.email         = ["hector@palmatellez.cl"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Adds Canonical.css to Rails}
+  spec.description   = %q{To use instead of older CSS resets.}
+  spec.homepage      = "http://github.com/hectorpalmatellez"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

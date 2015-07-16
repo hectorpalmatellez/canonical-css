@@ -1,5 +1,5 @@
 require "canonical_css/version"
+require "canonical_css/engine"
 
 module CanonicalCss
-  # Your code goes here...
 end
