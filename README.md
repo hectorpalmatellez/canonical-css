@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/canonical_css.svg)](http://badge.fury.io/rb/canonical_css)
+[![npm version](https://badge.fury.io/js/canonical.css.svg)](http://badge.fury.io/js/canonical.css)
+
 # CanonicalCss
 
 Includes [Marxo's Canonical.css](https://github.com/marxo/Canonical.css) as a lightweight and modern alternative to [normalize-rails](https://github.com/markmcconachie/normalize-rails).
